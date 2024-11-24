@@ -1,10 +1,20 @@
 ## Hi there 👋
+- I'm Nadav, a software engineering student on my 3rd year.
+- I'm passionate about exploring new technologies, problem-solving, and building innovative solutions.
+- I'm interested in Software Development, AI, and Backend Systems.
+  
+### 📫 Let's Connect!
 
+✉️ Email: nadav832002@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/nadav-robinson-b21927294/
 <!--
 **NadavRobinson/NadavRobinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+- 👋 Hi, I'm Nadav, I'm a software engineering student on my 3rd year, passionate about exploring new technologies,
+problem-solving, and building innovative solutions.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
